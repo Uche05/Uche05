@@ -1,0 +1,12 @@
+:root {
+    /* CSS HEX */
+    --tea-green: #ccd5aeff; /*primary-color*/
+    --beige: #e9edc9ff; /*secondary-color*/
+    --cornsilk: #fefae0ff; /*accent-color*/
+    --papaya-whip: rgb(250, 237, 205); /*background-color*/
+    --buff: #4A3017; /*text-color*/
+}
+
+header{
+    background-color: beige;
+}
