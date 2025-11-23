@@ -50,7 +50,7 @@
 </p>
 
 ---
-
+<---!
 ## ⭐ Featured Projects
 <!-- Duplicate this block for more projects -->
 ### 🔹 Project Title
@@ -86,4 +86,5 @@
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
+<p align="center">✨ Thanks for visiting my profile! ✨</p>--->
+
