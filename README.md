@@ -1,15 +1,15 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm YOUR NAME 👋</h1>
-<h3 align="center">YOUR SHORT ROLE / DESCRIPTION</h3>
+<h1 align="center">Hi there, I'm Uchechukwu Christian👋</h1>
+<h3 align="center">I'm currently a college student (based in the UK). </h3>
 
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **TECHNOLOGIES**
-- 🔭 I’m working on **PROJECT / GOAL**
-- 👯 I’m looking to collaborate on **PROJECT TYPES**
-- 💬 Ask me about **SKILLS / EXPERTISE**
-- ⚡ Fun fact: **YOUR FUN FACT**
+- 🌱 I’m currently learning **Python, JavaScript Frameworks**
+- 🔭 I’m working on **a full-stack web blog**
+- 👯 I’m looking to collaborate on **ranging project types**
+- 💬 Ask me about **my skills/expertise**
+- ⚡ Fun fact: **I like to play tennis but never learnt**
 
 ---
 
@@ -43,26 +43,23 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/uchechukwu-kpadeuwa-399bab215/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/Uche05"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://instagram.com/christian_codes"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="mailto:uchepy8@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 <---!
 ## ⭐ Featured Projects
 <!-- Duplicate this block for more projects -->
-### 🔹 Project Title
-- Description of what it does  
-- Tech used: **TECH1, TECH2, TECH3**  
-- Repo: https://github.com/yourusername/project  
+### 🔹 Pending Rebuild
 
 ---
 
 ## 📂 My GitHub Repositories
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories"><b>Click to view all public repositories</b></a>
+  <a href="https://github.com/Uche05?tab=repositories"><b>Click to view all public repositories</b></a>
 </p>
 
 ---
@@ -87,4 +84,5 @@
 ---
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>--->
+
 
