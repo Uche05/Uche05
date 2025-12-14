@@ -17,13 +17,13 @@
 <!-- Add or remove icons as needed -->
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs" />
   <br/>
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs" />
   <br/>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma," />
 </p>
 
 ---
@@ -84,5 +84,6 @@
 ---
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>--->
+
 
 
