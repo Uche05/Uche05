@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs" />
   <br/>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma," />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,raspberrypi" />
 </p>
 
 ---
@@ -84,6 +84,7 @@
 ---
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>--->
+
 
 
 
