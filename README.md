@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Uchechukwu👋</h1>
+<h1 align="center">Hi there, I'm Uche👋</h1>
 
 ---
 
